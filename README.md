@@ -62,12 +62,7 @@ The goal is to help healthcare clinics better understand scheduling behavior and
 ---
 
 ## Data Flow
-appointments_data.csv
-        ↓
-cleaned_appointments.csv
-        ↓
-visualizations (PNG)
-
+appointments_data.csv → cleaned_appointments.csv → visualization outputs (PNG)
 
 ---
 
